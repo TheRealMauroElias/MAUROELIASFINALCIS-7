@@ -8,7 +8,6 @@ setting a text and a key. The key will be repeated until the characters of the t
 letters will be added together to obtain a number that will fit in a range of 26 numbers (letters of the al
 phabet), thus obtaining a new word. The process is reversed when decrypting a message, also making use of a
 text (already encrypted) and a key (the same with which it was encrypted).
--------------------------------------------------------------------------------------------------------
 Regarding the operation and efficiency of this project, I will start by saying that the main objective and the
 biggest challenge was to ensure that it had correct responses when encrypting or revealing the words. When the 
 program interacts with the user, the following happens:
